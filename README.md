@@ -5,7 +5,7 @@ _**LATEST UPDATE:**_ <i>Learning MERN Stack development , react & nodejs :) </i>
 
 - 👨‍🎓 21 years old computer science engineer.
 - 👨‍💻 ***#SelfTaught*** Developer.
-- 📱 MERN Stack developer.
+- 📱 software developer/web developer.
 
 
 **Connect with me** 👇
